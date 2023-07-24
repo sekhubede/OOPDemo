@@ -16,3 +16,4 @@ var player = new Player(name);
 
 WriteLine(Text.Language.Welcome, player.Name);
 
+var house = new House(player);
